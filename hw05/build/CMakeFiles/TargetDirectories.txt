@@ -1,0 +1,8 @@
+D:/hw05/build/CMakeFiles/ALL_BUILD.dir
+D:/hw05/build/CMakeFiles/ZERO_CHECK.dir
+D:/hw05/build/src/CMakeFiles/hw05.dir
+D:/hw05/build/tests/CMakeFiles/Experimental.dir
+D:/hw05/build/tests/CMakeFiles/Nightly.dir
+D:/hw05/build/tests/CMakeFiles/Continuous.dir
+D:/hw05/build/tests/CMakeFiles/NightlyMemoryCheck.dir
+D:/hw05/build/tests/CMakeFiles/hw05_test.dir

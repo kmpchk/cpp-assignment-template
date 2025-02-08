@@ -1,0 +1,10 @@
+^D:\HW05\BUILD\CMAKEFILES\06CACEF6283D021F921F509CB71088C0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/hw05 -BD:/hw05/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/hw05/build/Project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
