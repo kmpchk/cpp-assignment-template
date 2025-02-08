@@ -1,0 +1,13 @@
+# ninja log v5
+5038	5219	7607333813931346	lib/gmockd.lib	6fcecbb9c40f6ada
+84	2784	7607333790207581	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	bdbc74789a73fa55
+46	5120	7607333813528546	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.obj	968e6e9a024a2bee
+62	2805	7607333790410057	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	f6cd38c7df241f1d
+37	3308	7607333795450807	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	62baccdddec8c285
+54	3341	7607333795778171	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.obj	613593d0d97a902d
+72	5095	7607333813232093	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	233f96ab728426b4
+5095	5256	7607333814842259	lib/gtestd.lib	3ae464f4f1ed2e78
+28	5038	7607333812737044	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.obj	ed3a38e3a0f13e11
+5121	5273	7607333814932745	lib/gmock_maind.lib	b89033faf43ffffd
+5256	5320	7607333815631970	lib/gtest_maind.lib	37052f071b527e8d
+5	52	0	clean	8c45b54705a541e8
